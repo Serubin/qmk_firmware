@@ -20,4 +20,3 @@ This is the layout based on the clueboard default, modified for development on M
 #### Media Layer
 ![Media Layer Image](layout-media.png)
 
-
